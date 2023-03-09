@@ -124,7 +124,7 @@ export default {
 }
 
 .admin-container .admin-form-container form p a {
-    color: #27ae60;
+    color: #ce4641;
 }
 
 .admin-container .admin-form-container form p a:hover {

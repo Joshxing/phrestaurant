@@ -491,7 +491,7 @@ input[type="button"] {
 }
 
 hr {
-    border-top: 3px solid #057835fa;
+    border-top: 3px solid #ce4641;
     width: 100%;
 }
 
@@ -513,7 +513,7 @@ hr {
 }
 
 .filter-heading h1 {
-    color: #27ae60;
+    color: #ce4641;
 }
 
 .filter-option {
@@ -530,7 +530,7 @@ hr {
 
 .filter-option label:hover {
     color: white;
-    background-color: #f38609 !important;
+    background-color: #ce4641 !important;
     transition: all 0.5s ease;
 }
 
@@ -547,7 +547,7 @@ hr {
     height: 40px;
     font-size: 20px;
     color: white;
-    background: #27ae60;
+    background: #ce4641;
 }
 
 ::placeholder {
@@ -563,7 +563,7 @@ hr {
     flex: 0 0 100%;
     max-width: 100%;
     text-align: center;
-    background-color: #27ae60;
+    background-color: #ce4641;
 }
 
 .menu-section .menu-tabs .menu-tab-item {
@@ -580,7 +580,7 @@ hr {
 }
 
 .menu-section .menu-tabs .menu-tab-item:hover {
-    background-color: #f38609 !important;
+    background-color: #ce4641 !important;
 }
 
 .menu-section .menu-tabs .menu-tab-item p {
@@ -612,7 +612,7 @@ hr {
 }
 
 .menu-section .box-container .box .fa-heart:hover {
-    color: #27ae60;
+    color: #ce4641;
 }
 
 .menu-section .box-container .box .image {
@@ -634,7 +634,7 @@ hr {
 }
 
 .menu-section .box-container .box .content .stars i {
-    color: gold;
+    color: #ce4641;
 }
 
 .menu-section .box-container .box .content .stars span {
@@ -665,9 +665,9 @@ hr {
 }
 
 .menu-section .action-row .action-btn {
-    background-color: #27ae60;
+    background-color: #ce4641;
     padding: 3px;
-    border: 2px solid #27ae60;
+    border: 2px solid #ce4641;
     border-radius: 30%;
     color: white;
 }
@@ -681,7 +681,7 @@ hr {
 }
 
 .menu-section .action-row span.highlight {
-    color: #f38609;
+    color: #ce4641;
 }
 
 .menu-section .action-row span:first-of-type {
@@ -726,7 +726,7 @@ hr {
 
     .filter-drop-down {
         display: block;
-        background-color: #27ae60;
+        background-color: #ce4641;
         color: white;
         font-weight: 400;
         margin-bottom: 15px;
